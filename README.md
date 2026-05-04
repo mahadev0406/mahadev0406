@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/da879ab5-f638-42d3-b4f3-b1517803d2a9" /># 💫 About Me:
+
 🔭 I’m currently working on  <br>- Face Recognition Attendance System using OpenCV & Python  <br>- Machine Learning and AI-based real-world projects  <br><br>🤝 I’m looking to collaborate on  <br>- AI/ML projects  <br>- Open-source contributions  <br>- Innovative problem-solving ideas  <br><br>🛠️ I’m looking for help with  <br>- Deep Learning models  <br>- Model optimization and deployment  <br>- Advanced AI concepts  <br><br>🌱 I’m currently learning  <br>- Deep Learning  <br>- Data Science  <br>- Advanced DSA  <br><br>💬 Ask me about  <br>- Python  <br>- Machine Learning  <br>- Data Structures & Algorithms  <br>- AI project building  <br><br>⚡ Fun fact  <br>- I enjoy building real-world AI solutions that solve practical problems
 
 
